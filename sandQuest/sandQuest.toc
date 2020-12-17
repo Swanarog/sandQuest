@@ -1,0 +1,9 @@
+## Interface: 90002
+## Version: 1
+## Title: sandCastle Quest
+## Notes: Simple Quest Objective Mover
+## Author: Goranaws
+## SavedVariables: sandQuestDB
+## Dependencies: sandCastle
+
+sandQuest.lua
